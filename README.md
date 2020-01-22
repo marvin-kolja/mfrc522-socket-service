@@ -1,1 +1,1 @@
-# mfrc522-socket-handler
+# mfrc522-socket-service
